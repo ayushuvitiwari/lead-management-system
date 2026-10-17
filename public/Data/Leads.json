@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "email": "rahul@gmail.com",
+    "mobile": "9876543210",
+    "service": "Web Development"
+  },
+  {
+    "id": 2,
+    "name": "Aman Verma",
+    "email": "aman@gmail.com",
+    "mobile": "8765432109",
+    "service": "Digital Marketing"
+  },
+  {
+    "id": 3,
+    "name": "Priya Singh",
+    "email": "priya@gmail.com",
+    "mobile": "7654321098",
+    "service": "UI/UX Design"
+  }
+]
