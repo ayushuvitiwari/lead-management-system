@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { NavLink, useNavigate } from "react-router-dom";
-import { MdDashboard } from "react-icons/md";
+import { MdDashboard ,  MdLeaderboard } from "react-icons/md";
 import { IoMenu, IoClose } from "react-icons/io5";
 import { FiLogOut } from "react-icons/fi";
 import Swal from "sweetalert2";
@@ -37,6 +37,7 @@ const DashboardLayout = ({ children }) => {
 
     const menuItems = [
         { title: "Dashboard", path: "/dashboard", icon: MdDashboard },
+        { title: "Lead", path: "/lead", icon: MdLeaderboard },
     ];
 
     return (
